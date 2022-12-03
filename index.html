@@ -2,89 +2,406 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>NRN - Home</title>
-<meta name="generator" content="Quick 'n Easy Web Builder - https://www.quickandeasywebbuilder.com">
+<title>NewRockRecords - Home</title>
+<meta name="generator" content="Quick 'n Easy Web Builder - http://www.quickandeasywebbuilder.com">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="fontawesome/font-awesome.min.css" rel="stylesheet">
 <link href="css/agencydark.css" rel="stylesheet">
 <link href="css/index.css" rel="stylesheet">
 <script src="jquery-1.12.4.min.js"></script>
-<script src="wb.carousel.min.js"></script>
+<script src="jquery.ui.effect.min.js"></script>
+<script src="skrollr.min.js"></script>
+<script src="wb.animatesvg.min.js"></script>
+<script src="qwb9.min.js"></script>
 <script>
 $(document).ready(function()
 {
-   var Carousel1Opts =
+   $('#reviewsImage1').addClass('visibility-hidden');
+   $('#portfolio-image2').addClass('visibility-hidden');
+   $('#reviewsImage1').addClass('visibility-hidden');
+   $('#portfolio-image2').addClass('visibility-hidden');
+   $("a[href*='#header']").click(function(event)
    {
-      delay: 6000,
-      duration: 500,
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_header').offset().top }, 600, 'easeOutCirc');
+   });
+   $("a[href*='#LayoutGrid2']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_LayoutGrid2').offset().top-88 }, 600, 'easeOutCirc');
+   });
+   function LayoutGrid2Scroll()
+   {
+      var $obj = $("#wb_LayoutGrid2");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('reviewsImage1', 'animate-fade-in-up', 0, 1000);
+         AnimateCss('portfolio-image2', 'animate-fade-in-up', 500, 1000);
+      }
+   }
+   LayoutGrid2Scroll();
+   $(window).scroll(function(event)
+   {
+      LayoutGrid2Scroll();
+   });
+   $("a[href*='#services']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_services').offset().top-88 }, 600, 'easeOutCirc');
+   });
+   function skrollrInit()
+   {
+      skrollr.init({forceHeight: false, mobileCheck: function() { return false; }, smoothScrolling: false});
+   }
+   skrollrInit();
+   $("a[href*='#questions']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_questions').offset().top-88 }, 600, 'easeOutCirc');
+   });
+   $("a[href*='#prices']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_prices').offset().top-88 }, 600, 'easeOutCirc');
+   });
+   $("a[href*='#reviews']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_reviews').offset().top-88 }, 600, 'easeOutCirc');
+   });
+   function reviewsScroll()
+   {
+      var $obj = $("#wb_reviews");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('reviewsImage1', 'animate-fade-in-up', 0, 1000);
+         AnimateCss('portfolio-image2', 'animate-fade-in-up', 500, 1000);
+      }
+   }
+   reviewsScroll();
+   $(window).scroll(function(event)
+   {
+      reviewsScroll();
+   });
+   $("#ClipArt2").animatesvg(
+   {
+      delay: 200,
+      duration: 2000,
       easing: 'linear',
-      mode: 'forward',
-      direction: '',
-      pagination: true,
-      pause: null,
-      start: 0
-   };
-   $("#Carousel1").carousel(Carousel1Opts);
-   $("#Carousel1_back a").click(function()
-   {
-      $('#Carousel1').carousel('prev');
+      loop: true
    });
-   $("#Carousel1_next a").click(function()
+   $("#ClipArt2").animatesvg('animate');
+   $("#ClipArt3").animatesvg(
    {
-      $('#Carousel1').carousel('next');
+      delay: 200,
+      duration: 2000,
+      easing: 'linear',
+      loop: true
    });
+   $("#ClipArt3").animatesvg('animate');
+   $("#ClipArt4").animatesvg(
+   {
+      delay: 200,
+      duration: 2000,
+      easing: 'linear',
+      loop: true
+   });
+   $("#ClipArt4").animatesvg('animate');
 });
 </script>
 </head>
 <body>
-<div id="container">
-<div id="wb_Shape3" style="position:absolute;left:0px;top:0px;width:1001px;height:771px;z-index:2;">
-<img src="images/img0018.png" id="Shape3" alt="" title="" style="border-width:0;width:1001px;height:771px"></div>
-<div id="wb_Shape1" style="position:absolute;left:0px;top:0px;width:1001px;height:68px;z-index:3;">
-<img src="images/img0019.png" id="Shape1" alt="" title="" style="border-width:0;width:1001px;height:68px"></div>
-<div id="wb_Image2" style="position:absolute;left:345px;top:12px;width:312px;height:47px;z-index:4;">
-<img src="images/newrocknews.png" id="Image2" alt=""></div>
-<div id="wb_ResponsiveMenu1" style="position:absolute;left:0px;top:0px;width:337px;height:68px;z-index:5;">
-<label class="toggle" for="ResponsiveMenu1-submenu" id="ResponsiveMenu1-title">Menu<span id="ResponsiveMenu1-icon"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></span></label>
-<input type="checkbox" id="ResponsiveMenu1-submenu">
-<ul class="ResponsiveMenu1" id="ResponsiveMenu1" role="menu">
-<li role="menuitem"><a href=""><i class="fa fa-home fa-2x">&nbsp;</i><br>Home</a></li>
-<li role="menuitem"><a href=""><i class="fa fa-user fa-2x">&nbsp;</i><br>About</a></li>
-</ul>
+<div id="wb_header">
+<div id="header">
+<div class="row">
+<div class="col-1">
+<div id="wb_Image1" style="display:inline-block;width:399px;height:60px;z-index:0;">
+<img src="images/creator_me_MTAxMzQwMTE4NDA.png" id="Image1" alt="">
 </div>
-<div id="wb_Carousel1" style="position:absolute;left:0px;top:68px;width:1001px;height:648px;z-index:6;overflow:hidden;">
-<div id="Carousel1" style="position:absolute;">
-<div class="frame">
-<iframe name="InlineFrame1" id="InlineFrame1" style="position:absolute;left:0px;top:1px;width:1001px;height:641px;z-index:0;" src="./pyrogaricep2022.html" scrolling="no"></iframe>
-</div>
-<div class="frame">
-<iframe name="InlineFrame1" id="InlineFrame2" style="position:absolute;left:1001px;top:1px;width:1001px;height:641px;z-index:1;" src="./tigersboat2022.html" scrolling="no"></iframe>
+<div id="wb_Image5" style="display:inline-block;width:57px;height:57px;z-index:1;">
+<img src="images/audiomacklogo.png" id="Image5" alt="">
 </div>
 </div>
-<div id="Carousel1_back"><a class="carousel-control-prev" role="button"><span class="carousel-control-prev-icon" aria-hidden="true"></span></a></div>
-<div id="Carousel1_next"><a class="carousel-control-next" role="button"><span class="carousel-control-next-icon" aria-hidden="true"></span></a></div>
 </div>
-<div id="wb_Image5" style="position:absolute;left:0px;top:68px;width:1002px;height:51px;z-index:7;">
-<img src="images/gradient_fade-3882217354.png" id="Image5" alt=""></div>
-<div id="wb_Image1" style="position:absolute;left:942px;top:8px;width:51px;height:51px;z-index:8;">
-<a href="https://audiomack.com/newrockrecords"><img src="images/audiomacklogo.png" id="Image1" alt=""></a></div>
-<div id="wb_Text5" style="position:absolute;left:40px;top:3157px;width:890px;height:22px;z-index:9;">
+</div>
+</div>
+<div id="wb_LayoutGrid2">
+<div id="LayoutGrid2">
+<div class="row">
+<div class="col-1">
+<div class="col-1-padding">
+<div id="wb_Image2" style="display:inline-block;width:212px;height:265px;z-index:2;">
+<img src="images/nospacepromo.png" id="Image2" alt="">
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="col-2-padding">
+<div id="wb_Heading2" style="display:inline-block;width:100%;text-align:center;z-index:3;">
+<h1 id="Heading2">Services</h1>
+</div>
+<div id="wb_Heading1" style="display:inline-block;width:100%;text-align:center;z-index:4;">
+<h1 id="Heading1">What we do</h1>
+</div>
+</div>
+</div>
+<div class="col-3">
+<div id="wb_Image3" style="display:inline-block;width:212px;height:265px;z-index:5;">
+<img src="images/boatrideprom.png" id="Image3" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_services">
+<div id="services">
+<div class="row">
+<div class="col-1">
+<div class="col-1-padding">
+<div id="wb_ClipArt2" style="display:inline-block;width:35px;height:48px;z-index:6;position:relative;">
+<svg id="ClipArt2" height="100%" width="100%" style="position:absolute;height:100%;width:100%;left:0;top:0;overflow:visible" viewBox="0 0 35 48" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+   <path id="ClipArt2-shape" d="M35 20L35 24Q35,30 30,35 Q26,40 19,40 L19 44L27 44Q28,44 29,45 Q29,45 29,46 Q29,47 29,47 Q28,48 27,48 L8 48Q7,48 6,47 Q6,47 6,46 Q6,45 6,45 Q7,44 8,44 L16 44L16 40Q9,40 4,35 Q0,30 0,24 L0 20Q0,20 1,19 Q1,18 2,18 Q3,18 3,19 Q4,20 4,20 L4 24Q4,29 8,33 Q12,37 18,37 Q23,37 27,33 Q31,29 31,24 L31 20Q31,20 32,19 Q32,18 33,18 Q34,18 34,19 Q35,20 35,20 M27 9L27 24Q27,28 24,30 Q21,33 18,33 Q13,33 11,30 Q8,28 8,24 L8 9Q8,5 11,3 Q13,0 18,0 Q21,0 24,3 Q27,5 27,9 " vector-effect="non-scaling-stroke" />
+</defs>
+<use xlink:href="#ClipArt2-shape" data-href="#ClipArt2-shape" style="fill:none;stroke:#6B6B6B;stroke-width:2"/>
+</svg>
+
+</div>
+<div id="wb_servicesCard1" style="display:flex;width:100%;text-align:center;z-index:7;" class="card" data--250-bottom="transform: scale(1.0,1.0);" data-333-bottom="transform: scale(0.5,0.5);">
+   <div id="servicesCard1-card-body">
+      <div id="servicesCard1-card-item0">We Record Music</div>
+      <div id="servicesCard1-card-item1">NewRockRecords takes great pride in capturing Artists in a raw and high definition manner. </div>
+   </div>
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="col-2-padding">
+<div id="wb_ClipArt3" style="display:inline-block;width:73px;height:48px;z-index:8;position:relative;">
+<svg id="ClipArt3" height="100%" width="100%" style="position:absolute;height:100%;width:100%;left:0;top:0;overflow:visible" viewBox="0 0 73 48" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+   <path id="ClipArt3-shape" d="M73 4L73 44Q73,46 71,47 Q71,47 70,47 Q69,47 69,46 L52 31L52 37Q52,42 49,45 Q45,48 40,48 L12 48Q7,48 3,45 Q0,42 0,37 L0 11Q0,6 3,3 Q7,0 12,0 L40 0Q45,0 49,3 Q52,6 52,11 L52 17L69 2Q69,1 70,1 Q71,1 71,1 Q73,2 73,4 " vector-effect="non-scaling-stroke" />
+</defs>
+<use xlink:href="#ClipArt3-shape" data-href="#ClipArt3-shape" style="fill:none;stroke:#6B6B6B;stroke-width:2"/>
+</svg>
+
+</div>
+<div id="wb_servicesCard2" style="display:flex;width:100%;text-align:center;z-index:9;" class="card" data--250-bottom="transform: scale(1.0,1.0);" data-333-bottom="transform: scale(0.5,0.5);">
+   <div id="servicesCard2-card-body">
+      <div id="servicesCard2-card-item0">We Record Music Videos</div>
+      <div id="servicesCard2-card-item1">NewRockRecords also records music videos! Presenting your art in a new and cool way.</div>
+   </div>
+</div>
+</div>
+</div>
+<div class="col-3">
+<div class="col-3-padding">
+<div id="wb_ClipArt4" style="display:inline-block;width:52px;height:48px;z-index:10;position:relative;">
+<svg id="ClipArt4" height="100%" width="100%" style="position:absolute;height:100%;width:100%;left:0;top:0;overflow:visible" viewBox="0 0 52 48" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+   <path id="ClipArt4-shape" d="M49 10L49 11L50 12L51 13L51 15L52 16L52 17L52 19L52 20L52 21L52 23L52 24L51 25L51 26L50 28L49 29L49 30L48 31L47 32L46 33L44 34L43 35L42 36L41 37L39 37L38 38L36 38L34 39L33 39L31 40L29 40L28 40L26 40L24 40L22 40L20 41L19 42L17 43L16 44L14 45L12 46L10 47L8 47L8 48L7 48L6 48L5 48L5 48L5 48L4 48L4 48L4 48L4 47L4 47L4 47L4 47L4 47L4 47L4 46L4 46L4 46L4 46L4 46L4 46L4 46L4 46L4 46L4 45L4 45L4 45L5 45L5 45L5 45L5 45L5 44L5 44L6 43L6 43L6 43L6 43L7 42L7 42L7 42L7 41L8 41L8 41L8 40L8 40L8 39L9 39L9 39L9 38L9 37L10 36L9 35L8 34L7 33L6 33L5 32L4 31L3 30L3 29L2 28L1 27L1 26L1 25L0 23L0 22L0 21L0 20L0 19L0 18L0 17L1 16L1 15L1 14L2 13L2 12L3 11L3 10L4 10L4 9L5 8L6 7L7 7L8 6L8 5L9 5L10 4L11 3L12 3L14 2L16 2L17 1L18 1L20 1L21 0L22 0L23 0L25 0L26 0L28 0L29 0L31 0L33 1L34 1L36 1L38 2L39 3L41 3L42 4L43 5L44 6L46 7L47 8L48 9L49 10Z " vector-effect="non-scaling-stroke" />
+</defs>
+<use xlink:href="#ClipArt4-shape" data-href="#ClipArt4-shape" style="fill:none;stroke:#6B6B6B;stroke-width:2"/>
+</svg>
+
+</div>
+<div id="wb_servicesCard3" style="display:flex;width:100%;text-align:center;z-index:11;" class="card" data--250-bottom="transform: scale(1.0,1.0);" data-333-bottom="transform: scale(0.5,0.5);">
+   <div id="servicesCard3-card-body">
+      <div id="servicesCard3-card-item0">We Promote</div>
+      <div id="servicesCard3-card-item1">We’ll give you a platform to host your music, run paid ads and write an article about you, giving a rundown on your latest releases, what’s coming and how people can keep in touch with you. We want to keep your fans informed and give you the credit that you deserve. All with NO contracts or fuss.</div>
+   </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_questions">
+<div id="questions">
+<div class="col-1">
+<div id="wb_questionsHeading2" style="display:inline-block;width:100%;text-align:center;z-index:12;">
+<h1 id="questionsHeading2">Simple Pricing</h1>
+</div>
+<div id="wb_Text2">
+<div style="color:#000000;">
+<div style="text-align:center"><span style="color:#FFFFFF;">NewRockRecords wants to make finding the right package for you</span></div>
+<div style="text-align:center"><span style="color:#FFFFFF;"> as easy as possible as not to divert from creating your art!</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_prices">
+<div id="prices">
+<div class="row">
+<div class="col-1">
+<div class="col-1-padding">
+<div id="wb_Card3" style="display:flex;width:100%;text-align:center;z-index:14;" class="card">
+   <div id="Card3-card-body">
+      <div id="Card3-card-item0">1</div>
+      <div id="Card3-card-item1">Promote a Track</div>
+      <div id="Card3-card-item2">£20</div>
+      <div id="Card3-card-item3">(50% of revenue generated by the material<br>submitted will go back into promoting yours and others content, this includes your up-front payment)</div>
+      <hr id="Card3-card-item4">
+      <div id="Card3-card-item5"><i class="fa fa-crosshairs"></i></div>
+      <div id="Card3-card-item6">Audio Recording</div>
+      <hr id="Card3-card-item7">
+      <div id="Card3-card-item8"><i class="fa fa-crosshairs"></i></div>
+      <div id="Card3-card-item9">1/1 Mixing Sessions</div>
+      <hr id="Card3-card-item10">
+      <div id="Card3-card-item11"><i class="fa fa-check"></i></div>
+      <div id="Card3-card-item12">Get Published on Streaming Platforms</div>
+      <hr id="Card3-card-item13">
+      <div id="Card3-card-item14"><i class="fa fa-check"></i></div>
+      <div id="Card3-card-item15">Get a Writeup / Paid Promotion</div>
+      <hr id="Card3-card-item16">
+      <div id="Card3-card-item17"><i class="fa fa-crosshairs"></i></div>
+      <div id="Card3-card-item18">Create Music Video</div>
+      <hr id="Card3-card-item19">
+      <div id="Card3-card-item20"><a href="./payment.html">BUY NOW</a></div>
+   </div>
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="col-2-padding">
+<div id="wb_Card2" style="display:flex;width:100%;text-align:center;z-index:15;" class="card">
+   <div id="Card2-card-body">
+      <div id="Card2-card-item0">2</div>
+      <div id="Card2-card-item1">Get Creative</div>
+      <div id="Card2-card-item2">£100</div>
+      <div id="Card2-card-item3">Session Duration: 1 Working Day<br><br>(50% of revenue generated by the material<br>submitted will go back into promoting yours and others content | Also includes £10 Kickstart)</div>
+      <hr id="Card2-card-item4">
+      <div id="Card2-card-item5"><i class="fa fa-check"></i></div>
+      <div id="Card2-card-item6">Audio Recording</div>
+      <hr id="Card2-card-item7">
+      <div id="Card2-card-item8"><i class="fa fa-crosshairs"></i></div>
+      <div id="Card2-card-item9">1/1 Mixing Sessions</div>
+      <hr id="Card2-card-item10">
+      <div id="Card2-card-item11"><i class="fa fa-check"></i></div>
+      <div id="Card2-card-item12">Get Published on Streaming Platforms</div>
+      <hr id="Card2-card-item13">
+      <div id="Card2-card-item14"><i class="fa fa-check"></i></div>
+      <div id="Card2-card-item15">Get a Writeup / Paid Promotion</div>
+      <hr id="Card2-card-item16">
+      <div id="Card2-card-item17"><i class="fa fa-crosshairs"></i></div>
+      <div id="Card2-card-item18">Create Music Video</div>
+      <hr id="Card2-card-item19">
+      <div id="Card2-card-item20"><a href="./payment.html">BUY NOW</a></div>
+   </div>
+</div>
+</div>
+</div>
+<div class="col-3">
+<div class="col-3-padding">
+<div id="wb_pricesCard1" style="display:flex;width:100%;text-align:center;z-index:16;" class="card">
+   <div id="pricesCard1-card-body">
+      <div id="pricesCard1-card-item0">3</div>
+      <div id="pricesCard1-card-item1">Expand Your Library</div>
+      <div id="pricesCard1-card-item2">£400</div>
+      <div id="pricesCard1-card-item3">Session Duration: 5 Working Days<br><br>(50% of revenue generated by the material<br>submitted will go back into promoting yours and others content | Also includes £10 Kickstart)</div>
+      <hr id="pricesCard1-card-item4">
+      <div id="pricesCard1-card-item5"><i class="fa fa-check"></i></div>
+      <div id="pricesCard1-card-item6">Audio Recording</div>
+      <hr id="pricesCard1-card-item7">
+      <div id="pricesCard1-card-item8"><i class="fa fa-check"></i></div>
+      <div id="pricesCard1-card-item9">1/1 Mixing Sessions</div>
+      <hr id="pricesCard1-card-item10">
+      <div id="pricesCard1-card-item11"><i class="fa fa-check"></i></div>
+      <div id="pricesCard1-card-item12">Get Published on Streaming Platforms</div>
+      <hr id="pricesCard1-card-item13">
+      <div id="pricesCard1-card-item14"><i class="fa fa-check"></i></div>
+      <div id="pricesCard1-card-item15">Get a Writeup</div>
+      <hr id="pricesCard1-card-item16">
+      <div id="pricesCard1-card-item17"><i class="fa fa-check"></i></div>
+      <div id="pricesCard1-card-item18">Create Music Video</div>
+      <hr id="pricesCard1-card-item19">
+      <div id="pricesCard1-card-item20"><a href="./payment.html">BUY NOW</a></div>
+   </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_reviews">
+<div id="reviews">
+<div class="row">
+<div class="col-1">
+<div class="col-1-padding">
+<div id="wb_reviewsHeading" style="display:inline-block;width:100%;text-align:center;z-index:17;">
+<h1 id="reviewsHeading">Our Team</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_LayoutGrid7">
+<div id="LayoutGrid7">
+<div class="row">
+<div class="col-1">
+<div id="wb_Card6" style="display:flex;width:100%;z-index:18;" class="card">
+   <div id="Card6-card-body">
+      <img id="Card6-card-item0" src="images/dave.png" alt="" title="">
+      <div id="Card6-card-item1">Dave Roberts</div>
+      <div id="Card6-card-item2">Founder<br>Producer<br>Mastering Engineer</div>
+   </div>
+</div>
+</div>
+<div class="col-2">
+</div>
+<div class="col-3">
+<div id="wb_Card1" style="display:flex;width:100%;z-index:19;" class="card">
+   <div id="Card1-card-body">
+      <img id="Card1-card-item0" src="312207941_1157851205140855_5689016822072579073_n.jpeg" alt="" title="">
+      <div id="Card1-card-item1">Josh Wheatstone</div>
+      <div id="Card1-card-item2">Founder<br>Producer<br>Recording / <br>Mix Engineer<br>Promotions</div>
+   </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_LayoutGrid5">
+<div id="LayoutGrid5">
+<div class="row">
+<div class="col-1">
+<div class="col-1-padding">
+<div id="wb_IconFont5" style="display:inline-block;width:24px;height:24px;text-align:center;z-index:20;">
+<a href="https://www.facebook.com/nrockrecords/"><div id="IconFont5"><i class="fa fa-facebook"></i></div></a>
+</div>
+<div id="wb_IconFont7" style="display:inline-block;width:24px;height:24px;text-align:center;z-index:21;">
+<a href="https://www.tiktok.com/@newrockrecords"><div id="IconFont7"><i class="fa fa-music"></i></div></a>
+</div>
+<div id="wb_IconFont8" style="display:inline-block;width:24px;height:24px;text-align:center;z-index:22;">
+<a href="https://www.instagram.com/nrockrecords/"><div id="IconFont8"><i class="fa fa-instagram"></i></div></a>
+</div>
+<div id="wb_IconFont10" style="display:inline-block;width:24px;height:24px;text-align:center;z-index:23;">
+<a href="https://www.youtube.com/@newrockrecords6270"><div id="IconFont10"><i class="fa fa-youtube-play"></i></div></a>
+</div>
+<div id="wb_Image4" style="display:inline-block;width:28px;height:28px;z-index:24;">
+<a href="https://audiomack.com/newrockrecords"><img src="images/audiomacklogo.png" id="Image4" alt=""></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_LayoutGrid6">
+<div id="LayoutGrid6">
+<div class="row">
+<div class="col-1">
+<div class="col-1-padding">
+<div id="wb_Text5">
 <div style="font-family:Arial;font-size:13px;color:#000000;">
 <div style="text-align:center"><span style="font-size:15px;color:#3588F0;">&copy; 2022 Copyright: </span><span style="font-size:15px;color:#FFFFFF;">NewRockRecords</span></div>
 </div>
 </div>
-<div id="wb_Text1" style="position:absolute;left:40px;top:3157px;width:890px;height:22px;z-index:10;">
-<div style="font-family:Arial;font-size:13px;color:#000000;">
-<div style="text-align:center"><span style="font-size:15px;color:#3588F0;">&copy; 2022 Copyright: </span><span style="font-size:15px;color:#FFFFFF;">NewRockRecords</span></div>
 </div>
 </div>
-<div id="wb_Text2" style="position:absolute;left:40px;top:3157px;width:890px;height:22px;z-index:11;">
-<div style="font-family:Arial;font-size:13px;color:#000000;">
-<div style="text-align:center"><span style="font-size:15px;color:#3588F0;">&copy; 2022 Copyright: </span><span style="font-size:15px;color:#FFFFFF;">NewRockRecords</span></div>
-</div>
-</div>
-<div id="wb_Text3" style="position:absolute;left:55px;top:732px;width:890px;height:22px;z-index:12;">
-<div style="font-family:Arial;font-size:13px;color:#000000;">
-<div style="text-align:center"><span style="font-size:15px;color:#3588F0;">&copy; 2022 Copyright: </span><span style="font-size:15px;color:#FFFFFF;">NewRockRecords</span></div>
 </div>
 </div>
 </div>
