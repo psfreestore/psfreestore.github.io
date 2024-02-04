@@ -168,6 +168,28 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVSpotlight.uk" tvg-name="Rakuten Spotlight UK" tvg-logo="https://babaktv.com/wp-content/uploads/2023/07/Rakuten-UK-Spotlight.jpg?x60136" group-title="Movies",Rakuten Spotlight UK
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5ad8d3a31b95267e225e4e09" tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" tvg-chno="100" group-title="Movies" , Pluto TV Movies
+https://r.mjh.nz/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dbfeb961b411c00090b52b3" tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" tvg-chno="101" group-title="Movies" , Pluto TV Action
+https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dc02a44a9518600094273ac" tvg-id="5dc02a44a9518600094273ac" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" tvg-chno="102" group-title="Movies" , Pluto TV Sci-Fi
+https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6401d85a49839300087b116c" tvg-id="6401d85a49839300087b116c" tvg-logo="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" tvg-chno="103" group-title="Movies" , Moviesphere
+https://r.mjh.nz/PlutoTV/6401d85a49839300087b116c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c363c2411c5ca053f198f97" tvg-id="5c363c2411c5ca053f198f97" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" tvg-chno="104" group-title="Movies" , Pluto TV Comedy Movies
+https://r.mjh.nz/PlutoTV/5c363c2411c5ca053f198f97-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c5c31f2f21b553c1f673fb0" tvg-id="5c5c31f2f21b553c1f673fb0" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" tvg-chno="105" group-title="Movies" , Pluto TV Cult Films
+https://r.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dbfedccc563080009b60f4a" tvg-id="5dbfedccc563080009b60f4a" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" tvg-chno="106" group-title="Movies" , Pluto TV Thrillers
+https://r.mjh.nz/PlutoTV/5dbfedccc563080009b60f4a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-612cda102f5f18000705e0bf" tvg-id="612cda102f5f18000705e0bf" tvg-logo="https://images.pluto.tv/channels/612cda102f5f18000705e0bf/colorLogoPNG.png" tvg-chno="107" group-title="Movies" , Pluto TV Horror
+https://r.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d4bdb635ce813b38639e6a3" tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" tvg-chno="108" group-title="Movies" , Pluto TV Westerns
+https://r.mjh.nz/PlutoTV/5d4bdb635ce813b38639e6a3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d7677c0edace7cff8180b16" tvg-id="5d7677c0edace7cff8180b16" tvg-logo="https://images.pluto.tv/channels/5d7677c0edace7cff8180b16/colorLogoPNG.png" tvg-chno="109" group-title="Movies" , Pluto TV Romance
+https://r.mjh.nz/PlutoTV/5d7677c0edace7cff8180b16-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dc3fc6b9133f500099c7d98" tvg-id="5dc3fc6b9133f500099c7d98" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" tvg-chno="111" group-title="Movies" , Pluto TV Family Movie Club
+https://r.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
 
 # Sports / Leisure
 
@@ -179,6 +201,10 @@ https://edge02.odtv.az/o4/extremesport/playlist.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-name="Pluto TV Sports" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports / Leisure",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
+#EXTINF:-1 tvg-id="PlutoTVMotor.uk" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png" group-title="Sports / Leisure",Pluto TV Motor
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0510962948d000961d3c6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=576&terminate=false&userId=
+#EXTINF:-1 channel-id="pluto-5ad8d796e738977e2c31094a" tvg-id="5ad8d796e738977e2c31094a" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" tvg-chno="316" group-title="Sports / Leisure" , World Poker Tour
+https://r.mjh.nz/PlutoTV/5ad8d796e738977e2c31094a-alt.m3u8
 
 # Lifestyle
 
@@ -193,10 +219,57 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hunter.uk" tvg-name="Filmrise Hunter" tvg-logo="https://i.imgur.com/ztksnJB.png" group-title="Series",Filmrise Hunter
 https://lnc-hunter-filmrise.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetroDrama.uk" tvg-name="Pluto TV Retro Drama" tvg-logo="https://i.imgur.com/a2xIDMJ.png" group-title="Series",Pluto TV Retro Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dde47b63585b500099f74ec&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5204e9ec-0585-11eb-a18c-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSherlock.uk" tvg-name="Pluto TV Sherlock" tvg-logo="https://i.imgur.com/SL3FNcm.png" group-title="Series",Pluto TV Sherlock
+#EXTINF:-1 tvg-id="PlutoTVSherlock.uk" tvg-name="Pluto TV Sherlock" tvg-logo="https://i.imgur.com/SL3FNcm.png" group-title="Series",Sherlock
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 channel-id="pluto-60817936fd2d70000763d2b2" tvg-id="60817936fd2d70000763d2b2" tvg-logo="https://images.pluto.tv/channels/60817936fd2d70000763d2b2/colorLogoPNG.PNG" tvg-chno="214" group-title="Series" , Wild at Heart
+https://r.mjh.nz/PlutoTV/60817936fd2d70000763d2b2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-654a457ff9cc820008685290" tvg-id="654a457ff9cc820008685290" tvg-logo="https://images.pluto.tv/channels/654a457ff9cc820008685290/colorLogoPNG.png" tvg-chno="19" group-title="Series" , Medium
+https://r.mjh.nz/PlutoTV/654a457ff9cc820008685290-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64edf6eaa7ec0d000812f58c" tvg-id="64edf6eaa7ec0d000812f58c" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" tvg-chno="20" group-title="Series" , South Park
+https://r.mjh.nz/PlutoTV/64edf6eaa7ec0d000812f58c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6565bd7657fe4a0008687329" tvg-id="6565bd7657fe4a0008687329" tvg-logo="https://images.pluto.tv/channels/6565bd7657fe4a0008687329/colorLogoPNG.png" tvg-chno="21" group-title="Series" , Hot Ones
+https://r.mjh.nz/PlutoTV/6565bd7657fe4a0008687329-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64c3791f798def0008ad6b1c" tvg-id="64c3791f798def0008ad6b1c" tvg-logo="https://images.pluto.tv/channels/64c3791f798def0008ad6b1c/colorLogoPNG.png" tvg-chno="22" group-title="Series" , Mob Wives
+https://r.mjh.nz/PlutoTV/64c3791f798def0008ad6b1c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-656ef4af4261ca00083c8f37" tvg-id="656ef4af4261ca00083c8f37" tvg-logo="https://images.pluto.tv/channels/656ef4af4261ca00083c8f37/colorLogoPNG.png" tvg-chno="23" group-title="Series" , Totally Turtles
+https://r.mjh.nz/PlutoTV/656ef4af4261ca00083c8f37-alt.m3u8
+#EXTINF:-1 channel-id="pluto-656df2849d5ac400083be647" tvg-id="656df2849d5ac400083be647" tvg-logo="https://images.pluto.tv/channels/656df2849d5ac400083be647/colorLogoPNG.png" tvg-chno="24" group-title="Series" , Trucking Hell
+https://r.mjh.nz/PlutoTV/656df2849d5ac400083be647-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62da778fad95670007f610c0" tvg-id="62da778fad95670007f610c0" tvg-logo="https://images.pluto.tv/channels/62da778fad95670007f610c0/colorLogoPNG.png" tvg-chno="200" group-title="Series" , CSI: New York
+https://r.mjh.nz/PlutoTV/62da778fad95670007f610c0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6304f8d5ffb61000071ab478" tvg-id="6304f8d5ffb61000071ab478" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" tvg-chno="201" group-title="Series" , CSI: Crime Scene Investigation
+https://r.mjh.nz/PlutoTV/6304f8d5ffb61000071ab478-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62da7819be7a97000878eb92" tvg-id="62da7819be7a97000878eb92" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" tvg-chno="202" group-title="Series" , CSI: Miami
+https://r.mjh.nz/PlutoTV/62da7819be7a97000878eb92-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611e672d4676bf00076a3837" tvg-id="611e672d4676bf00076a3837" tvg-logo="https://images.pluto.tv/channels/611e672d4676bf00076a3837/colorLogoPNG.png" tvg-chno="205" group-title="Series" , Baywatch
+https://r.mjh.nz/PlutoTV/611e672d4676bf00076a3837-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63d000ef4e83e700086e0d6c" tvg-id="63d000ef4e83e700086e0d6c" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" tvg-chno="206" group-title="Series" , Scorpion
+https://r.mjh.nz/PlutoTV/63d000ef4e83e700086e0d6c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63fe2ec4dff38e000835f786" tvg-id="63fe2ec4dff38e000835f786" tvg-logo="https://images.pluto.tv/channels/63fe2ec4dff38e000835f786/colorLogoPNG.png" tvg-chno="208" group-title="Series" , Rookie Blue
+https://r.mjh.nz/PlutoTV/63fe2ec4dff38e000835f786-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c99f5810c95814ff92512f9" tvg-id="5c99f5810c95814ff92512f9" tvg-logo="https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png" tvg-chno="215" group-title="Series" , Hunter
+https://r.mjh.nz/PlutoTV/5c99f5810c95814ff92512f9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6081738748d3200007afb24b" tvg-id="6081738748d3200007afb24b" tvg-logo="https://images.pluto.tv/channels/6081738748d3200007afb24b/colorLogoPNG.png" tvg-chno="216" group-title="Series" , Highway to Heaven
+https://r.mjh.nz/PlutoTV/6081738748d3200007afb24b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d2c571faeb3e2738ae27933" tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" tvg-chno="300" group-title="Series" , 5 Cops
+https://r.mjh.nz/PlutoTV/5d2c571faeb3e2738ae27933-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f6b535a278bfe000799484a" tvg-id="5f6b535a278bfe000799484a" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" tvg-chno="301" group-title="Series" , Dog The Bounty Hunter
+https://r.mjh.nz/PlutoTV/5f6b535a278bfe000799484a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63693fa2bfa0690007ebc880" tvg-id="63693fa2bfa0690007ebc880" tvg-logo="https://images.pluto.tv/channels/63693fa2bfa0690007ebc880/colorLogoPNG.png" tvg-chno="302" group-title="Series" , Wicked Tuna
+https://r.mjh.nz/PlutoTV/63693fa2bfa0690007ebc880-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e8db96bccae160007c71eec" tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" tvg-chno="212" group-title="Series" , Andromeda
+https://r.mjh.nz/PlutoTV/5e8db96bccae160007c71eec-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f6b54b9e67cf60007d4cef1" tvg-id="5f6b54b9e67cf60007d4cef1" tvg-logo="https://images.pluto.tv/channels/5f6b54b9e67cf60007d4cef1/colorLogoPNG.png" tvg-chno="308" group-title="Series" , Duck Dynasty
+https://r.mjh.nz/PlutoTV/5f6b54b9e67cf60007d4cef1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c3639dd01112605397333a2" tvg-id="5c3639dd01112605397333a2" tvg-logo="https://images.pluto.tv/channels/5c3639dd01112605397333a2/colorLogoPNG.png" tvg-chno="309" group-title="Series" , Ice Pilots
+https://r.mjh.nz/PlutoTV/5c3639dd01112605397333a2-alt.
+#EXTINF:-1 channel-id="pluto-63d91c65da7118000883df1f" tvg-id="63d91c65da7118000883df1f" tvg-logo="https://images.pluto.tv/channels/63d91c65da7118000883df1f/colorLogoPNG.png" tvg-chno="311" group-title="Series" , Survivorman
+https://r.mjh.nz/PlutoTV/63d91c65da7118000883df1f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ca1de9208ee5378be82db3b" tvg-id="5ca1de9208ee5378be82db3b" tvg-logo="https://images.pluto.tv/channels/5ca1de9208ee5378be82db3b/colorLogoPNG.png" tvg-chno="313" group-title="Series" , Fifth Gear
+https://r.mjh.nz/PlutoTV/5ca1de9208ee5378be82db3b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e78faa05a0e200007a6f487" tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" tvg-chno="314" group-title="Series" , Full Custom Garage
+https://r.mjh.nz/PlutoTV/5e78faa05a0e200007a6f487-alt.m3u8
+
 
 # Documentary
 
@@ -216,15 +289,92 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f34750009
 #EXTINF:-1 tvg-id="PlutoTVStandUp.uk" tvg-name="Pluto TV Stand Up" tvg-logo="https://i.imgur.com/cZdUQDe.png" group-title="Comedy",Pluto TV Stand Up
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-# Auto
+# Drama
 
-#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Auto",Top Gear
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVMotor.uk" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png" group-title="Auto",Pluto TV Motor
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0510962948d000961d3c6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=576&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVRetroDrama.uk" tvg-name="Pluto TV Retro Drama" tvg-logo="https://i.imgur.com/a2xIDMJ.png" group-title="Drama",Pluto TV Retro Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dde47b63585b500099f74ec&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5204e9ec-0585-11eb-a18c-0242ac110002&terminate=false&userId=
+#EXTINF:-1 channel-id="pluto-619247c34a270700077c8415" tvg-id="619247c34a270700077c8415" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" tvg-chno="210" group-title="Drama" , Pluto TV Sci-fi Series
+https://r.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645e00d5d3fdde000829463a" tvg-id="645e00d5d3fdde000829463a" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" tvg-chno="211" group-title="Drama" , More TV Sci-fi
+https://r.mjh.nz/PlutoTV/645e00d5d3fdde000829463a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-604f8f8622166000071a929f" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" tvg-chno="213" group-title="Drama" , BET Pluto TV
+https://r.mjh.nz/PlutoTV/604f8f8622166000071a929f-alt.m3u8
+
+# Reality
+
+#EXTINF:-1 channel-id="pluto-600acaff5f2d6e000745effb" tvg-id="600acaff5f2d6e000745effb" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" tvg-chno="303" group-title="Reality" , Pluto TV Tough Jobs
+https://r.mjh.nz/PlutoTV/600acaff5f2d6e000745effb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63e23143a8b22700082b0a65" tvg-id="63e23143a8b22700082b0a65" tvg-logo="https://images.pluto.tv/channels/63e23143a8b22700082b0a65/colorLogoPNG.png" tvg-chno="304" group-title="Reality" , Pluto TV Cops & Convicts
+https://r.mjh.nz/PlutoTV/63e23143a8b22700082b0a65-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63c1384e829c850007922ca4" tvg-id="63c1384e829c850007922ca4" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png" tvg-chno="305" group-title="Reality" , 5 Emergency Rescue
+https://r.mjh.nz/PlutoTV/63c1384e829c850007922ca4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64c0d6b424ade50008bc8883" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-chno="306" group-title="Reality" , UKTV Play Heroes
+https://r.mjh.nz/PlutoTV/64c0d6b424ade50008bc8883-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d4af39510fd17b31a528eda" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" tvg-chno="307" group-title="Reality" , Pluto TV Fishing
+https://r.mjh.nz/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
+#EXTINF:-1 channel-id="pluto-623464d7185bef0007e337c0" tvg-id="623464d7185bef0007e337c0" tvg-logo="https://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" tvg-chno="310" group-title="Reality" , Pluto TV Adventure
+https://r.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
 
 # All Channels
 
+#EXTINF:-1 channel-id="pluto-63d91c65da7118000883df1f" tvg-id="63d91c65da7118000883df1f" tvg-logo="https://images.pluto.tv/channels/63d91c65da7118000883df1f/colorLogoPNG.png" tvg-chno="311" group-title="All Channels" , Survivorman
+https://r.mjh.nz/PlutoTV/63d91c65da7118000883df1f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ca1de9208ee5378be82db3b" tvg-id="5ca1de9208ee5378be82db3b" tvg-logo="https://images.pluto.tv/channels/5ca1de9208ee5378be82db3b/colorLogoPNG.png" tvg-chno="313" group-title="All Channels" , Fifth Gear
+https://r.mjh.nz/PlutoTV/5ca1de9208ee5378be82db3b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e78faa05a0e200007a6f487" tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" tvg-chno="314" group-title="All Channels" , Full Custom Garage
+https://r.mjh.nz/PlutoTV/5e78faa05a0e200007a6f487-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ad8d796e738977e2c31094a" tvg-id="5ad8d796e738977e2c31094a" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" tvg-chno="316" group-title="All Channels" , World Poker Tour
+https://r.mjh.nz/PlutoTV/5ad8d796e738977e2c31094a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-600acaff5f2d6e000745effb" tvg-id="600acaff5f2d6e000745effb" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" tvg-chno="303" group-title="All Channels" , Pluto TV Tough Jobs
+https://r.mjh.nz/PlutoTV/600acaff5f2d6e000745effb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63e23143a8b22700082b0a65" tvg-id="63e23143a8b22700082b0a65" tvg-logo="https://images.pluto.tv/channels/63e23143a8b22700082b0a65/colorLogoPNG.png" tvg-chno="304" group-title="All Channels" , Pluto TV Cops & Convicts
+https://r.mjh.nz/PlutoTV/63e23143a8b22700082b0a65-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63c1384e829c850007922ca4" tvg-id="63c1384e829c850007922ca4" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png" tvg-chno="305" group-title="All Channels" , 5 Emergency Rescue
+https://r.mjh.nz/PlutoTV/63c1384e829c850007922ca4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64c0d6b424ade50008bc8883" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-chno="306" group-title="All Channels" , UKTV Play Heroes
+https://r.mjh.nz/PlutoTV/64c0d6b424ade50008bc8883-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d4af39510fd17b31a528eda" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" tvg-chno="307" group-title="All Channels" , Pluto TV Fishing
+https://r.mjh.nz/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
+#EXTINF:-1 channel-id="pluto-623464d7185bef0007e337c0" tvg-id="623464d7185bef0007e337c0" tvg-logo="https://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" tvg-chno="310" group-title="All Channels" , Pluto TV Adventure
+https://r.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f6b54b9e67cf60007d4cef1" tvg-id="5f6b54b9e67cf60007d4cef1" tvg-logo="https://images.pluto.tv/channels/5f6b54b9e67cf60007d4cef1/colorLogoPNG.png" tvg-chno="308" group-title="All Channels" , Duck Dynasty
+https://r.mjh.nz/PlutoTV/5f6b54b9e67cf60007d4cef1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c3639dd01112605397333a2" tvg-id="5c3639dd01112605397333a2" tvg-logo="https://images.pluto.tv/channels/5c3639dd01112605397333a2/colorLogoPNG.png" tvg-chno="309" group-title="All Channels" , Ice Pilots
+https://r.mjh.nz/PlutoTV/5c3639dd01112605397333a2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-619247c34a270700077c8415" tvg-id="619247c34a270700077c8415" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" tvg-chno="210" group-title="All Channels" , Pluto TV Sci-fi Series
+https://r.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645e00d5d3fdde000829463a" tvg-id="645e00d5d3fdde000829463a" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" tvg-chno="211" group-title="All Channels" , More TV Sci-fi
+https://r.mjh.nz/PlutoTV/645e00d5d3fdde000829463a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-604f8f8622166000071a929f" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" tvg-chno="213" group-title="All Channels" , BET Pluto TV
+https://r.mjh.nz/PlutoTV/604f8f8622166000071a929f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e8db96bccae160007c71eec" tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" tvg-chno="212" group-title="All Channels" , Andromeda
+https://r.mjh.nz/PlutoTV/5e8db96bccae160007c71eec-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c99f5810c95814ff92512f9" tvg-id="5c99f5810c95814ff92512f9" tvg-logo="https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png" tvg-chno="215" group-title="All Channels" , Hunter
+https://r.mjh.nz/PlutoTV/5c99f5810c95814ff92512f9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6081738748d3200007afb24b" tvg-id="6081738748d3200007afb24b" tvg-logo="https://images.pluto.tv/channels/6081738748d3200007afb24b/colorLogoPNG.png" tvg-chno="216" group-title="All Channels" , Highway to Heaven
+https://r.mjh.nz/PlutoTV/6081738748d3200007afb24b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d2c571faeb3e2738ae27933" tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" tvg-chno="300" group-title="All Channels" , 5 Cops
+https://r.mjh.nz/PlutoTV/5d2c571faeb3e2738ae27933-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f6b535a278bfe000799484a" tvg-id="5f6b535a278bfe000799484a" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" tvg-chno="301" group-title="All Channels" , Dog The Bounty Hunter
+https://r.mjh.nz/PlutoTV/5f6b535a278bfe000799484a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63693fa2bfa0690007ebc880" tvg-id="63693fa2bfa0690007ebc880" tvg-logo="https://images.pluto.tv/channels/63693fa2bfa0690007ebc880/colorLogoPNG.png" tvg-chno="302" group-title="All Channels" , Wicked Tuna
+https://r.mjh.nz/PlutoTV/63693fa2bfa0690007ebc880-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62da778fad95670007f610c0" tvg-id="62da778fad95670007f610c0" tvg-logo="https://images.pluto.tv/channels/62da778fad95670007f610c0/colorLogoPNG.png" tvg-chno="200" group-title="All Channels" , CSI: New York
+https://r.mjh.nz/PlutoTV/62da778fad95670007f610c0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6304f8d5ffb61000071ab478" tvg-id="6304f8d5ffb61000071ab478" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" tvg-chno="201" group-title="All Channels" , CSI: Crime Scene Investigation
+https://r.mjh.nz/PlutoTV/6304f8d5ffb61000071ab478-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62da7819be7a97000878eb92" tvg-id="62da7819be7a97000878eb92" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" tvg-chno="202" group-title="All Channels" , CSI: Miami
+https://r.mjh.nz/PlutoTV/62da7819be7a97000878eb92-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611e672d4676bf00076a3837" tvg-id="611e672d4676bf00076a3837" tvg-logo="https://images.pluto.tv/channels/611e672d4676bf00076a3837/colorLogoPNG.png" tvg-chno="205" group-title="All Channels" , Baywatch
+https://r.mjh.nz/PlutoTV/611e672d4676bf00076a3837-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63d000ef4e83e700086e0d6c" tvg-id="63d000ef4e83e700086e0d6c" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" tvg-chno="206" group-title="All Channels" , Scorpion
+https://r.mjh.nz/PlutoTV/63d000ef4e83e700086e0d6c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63fe2ec4dff38e000835f786" tvg-id="63fe2ec4dff38e000835f786" tvg-logo="https://images.pluto.tv/channels/63fe2ec4dff38e000835f786/colorLogoPNG.png" tvg-chno="208" group-title="All Channels" , Rookie Blue
+https://r.mjh.nz/PlutoTV/63fe2ec4dff38e000835f786-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60817936fd2d70000763d2b2" tvg-id="60817936fd2d70000763d2b2" tvg-logo="https://images.pluto.tv/channels/60817936fd2d70000763d2b2/colorLogoPNG.PNG" tvg-chno="214" group-title="All Channels" , Wild at Heart
+https://r.mjh.nz/PlutoTV/60817936fd2d70000763d2b2-alt.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroDrama.uk" tvg-name="Pluto TV Retro Drama" tvg-logo="https://i.imgur.com/a2xIDMJ.png" group-title="All Channels",Pluto TV Retro Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dde47b63585b500099f74ec&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5204e9ec-0585-11eb-a18c-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV BBC Food" tvg-logo="https://i.pinimg.com/736x/31/f7/e0/31f7e0be3b3ff523022d6dac52cdc41e.jpg" group-title="All Channels",Pluto TV BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVFood.uk" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40" group-title="All Channels",Pluto TV Food
@@ -399,7 +549,39 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc
 #EXTINF:-1 tvg-id="PlutoTVStandUp.uk" tvg-name="Pluto TV Stand Up" tvg-logo="https://i.imgur.com/cZdUQDe.png" group-title="All Channels",Pluto TV Stand Up
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="All Channels",Top Gear
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVMotor.uk" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png" group-title="All Channels",Pluto TV Motor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0510962948d000961d3c6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=576&terminate=false&userId=
+#EXTINF:-1 channel-id="pluto-5ad8d3a31b95267e225e4e09" tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" tvg-chno="100" group-title="All Channels" , Pluto TV Movies
+https://r.mjh.nz/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8
+#EXTINF:-1 channel-id="pluto-654a457ff9cc820008685290" tvg-id="654a457ff9cc820008685290" tvg-logo="https://images.pluto.tv/channels/654a457ff9cc820008685290/colorLogoPNG.png" tvg-chno="19" group-title="All Channels" , Medium
+https://r.mjh.nz/PlutoTV/654a457ff9cc820008685290-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64edf6eaa7ec0d000812f58c" tvg-id="64edf6eaa7ec0d000812f58c" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" tvg-chno="20" group-title="All Channels" , South Park
+https://r.mjh.nz/PlutoTV/64edf6eaa7ec0d000812f58c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6565bd7657fe4a0008687329" tvg-id="6565bd7657fe4a0008687329" tvg-logo="https://images.pluto.tv/channels/6565bd7657fe4a0008687329/colorLogoPNG.png" tvg-chno="21" group-title="All Channels" , Hot Ones
+https://r.mjh.nz/PlutoTV/6565bd7657fe4a0008687329-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64c3791f798def0008ad6b1c" tvg-id="64c3791f798def0008ad6b1c" tvg-logo="https://images.pluto.tv/channels/64c3791f798def0008ad6b1c/colorLogoPNG.png" tvg-chno="22" group-title="All Channels" , Mob Wives
+https://r.mjh.nz/PlutoTV/64c3791f798def0008ad6b1c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-656ef4af4261ca00083c8f37" tvg-id="656ef4af4261ca00083c8f37" tvg-logo="https://images.pluto.tv/channels/656ef4af4261ca00083c8f37/colorLogoPNG.png" tvg-chno="23" group-title="All Channels" , Totally Turtles
+https://r.mjh.nz/PlutoTV/656ef4af4261ca00083c8f37-alt.m3u8
+#EXTINF:-1 channel-id="pluto-656df2849d5ac400083be647" tvg-id="656df2849d5ac400083be647" tvg-logo="https://images.pluto.tv/channels/656df2849d5ac400083be647/colorLogoPNG.png" tvg-chno="24" group-title="All Channels" , 5 Trucking Hell
+https://r.mjh.nz/PlutoTV/656df2849d5ac400083be647-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dbfeb961b411c00090b52b3" tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" tvg-chno="101" group-title="All Channels" , Pluto TV Action
+https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dc02a44a9518600094273ac" tvg-id="5dc02a44a9518600094273ac" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" tvg-chno="102" group-title="All Channels" , Pluto TV Sci-Fi
+https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6401d85a49839300087b116c" tvg-id="6401d85a49839300087b116c" tvg-logo="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" tvg-chno="103" group-title="All Channels" , Moviesphere
+https://r.mjh.nz/PlutoTV/6401d85a49839300087b116c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c363c2411c5ca053f198f97" tvg-id="5c363c2411c5ca053f198f97" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" tvg-chno="104" group-title="All Channels" , Pluto TV Comedy Movies
+https://r.mjh.nz/PlutoTV/5c363c2411c5ca053f198f97-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c5c31f2f21b553c1f673fb0" tvg-id="5c5c31f2f21b553c1f673fb0" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" tvg-chno="105" group-title="All Channels" , Pluto TV Cult Films
+https://r.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dbfedccc563080009b60f4a" tvg-id="5dbfedccc563080009b60f4a" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" tvg-chno="106" group-title="All Channels" , Pluto TV Thrillers
+https://r.mjh.nz/PlutoTV/5dbfedccc563080009b60f4a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-612cda102f5f18000705e0bf" tvg-id="612cda102f5f18000705e0bf" tvg-logo="https://images.pluto.tv/channels/612cda102f5f18000705e0bf/colorLogoPNG.png" tvg-chno="107" group-title="All Channels" , Pluto TV Horror
+https://r.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d4bdb635ce813b38639e6a3" tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" tvg-chno="108" group-title="All Channels" , Pluto TV Westerns
+https://r.mjh.nz/PlutoTV/5d4bdb635ce813b38639e6a3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d7677c0edace7cff8180b16" tvg-id="5d7677c0edace7cff8180b16" tvg-logo="https://images.pluto.tv/channels/5d7677c0edace7cff8180b16/colorLogoPNG.png" tvg-chno="109" group-title="All Channels" , Pluto TV Romance
+https://r.mjh.nz/PlutoTV/5d7677c0edace7cff8180b16-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dc3fc6b9133f500099c7d98" tvg-id="5dc3fc6b9133f500099c7d98" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" tvg-chno="111" group-title="All Channels" , Pluto TV Family Movie Club
+https://r.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
