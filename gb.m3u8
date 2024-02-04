@@ -225,181 +225,181 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d0009
 
 # All Channels
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV BBC Food" tvg-logo="https://i.pinimg.com/736x/31/f7/e0/31f7e0be3b3ff523022d6dac52cdc41e.jpg",Pluto TV BBC Food
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV BBC Food" tvg-logo="https://i.pinimg.com/736x/31/f7/e0/31f7e0be3b3ff523022d6dac52cdc41e.jpg" group-title="All Channels",Pluto TV BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVFood.uk" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40",Pluto TV Food
+#EXTINF:-1 tvg-id="PlutoTVFood.uk" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40" group-title="All Channels",Pluto TV Food
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="https://i.imgur.com/RpIdCB3.png",Aaj Tak
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="All Channels",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="Arise News" tvg-logo="https://i.imgur.com/B5IXKIb.png",Arise News
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="Arise News" tvg-logo="https://i.imgur.com/B5IXKIb.png" group-title="All Channels",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
-#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-name="BBC News (Europe)" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News (Europe)
+#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-name="BBC News (Europe)" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="All Channels",BBC News (Europe)
 http://livetv.ktv.zone/60/play.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="All Channels",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-name="Bloomberg TV EMEA Live Event" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV EMEA Live Event
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-name="Bloomberg TV EMEA Live Event" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="All Channels",Bloomberg TV EMEA Live Event
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png",CNN International
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="All Channels",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-name="Dunya News [Not 24/7]" tvg-logo="https://i.imgur.com/dtrTfZC.png",Dunya News [Not 24/7]
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-name="Dunya News [Not 24/7]" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="All Channels",Dunya News [Not 24/7]
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="All Channels",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC News Now
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="All Channels",NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="https://i.imgur.com/KxHWpQB.png",TalkTV
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="All Channels",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
-#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png",The Guardian
+#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="All Channels",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TBNUK.uk" tvg-name="TBN UK" tvg-logo="https://i.imgur.com/vFllwLd.png",TBN UK
+#EXTINF:-1 tvg-id="TBNUK.uk" tvg-name="TBN UK" tvg-logo="https://i.imgur.com/vFllwLd.png" group-title="All Channels",TBN UK
 https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
-#EXTINF:-1 tvg-id="ACTSTV.uk" tvg-name="ACTS TV" tvg-logo="https://i.imgur.com/c1gnTho.jpg",ACTS TV
+#EXTINF:-1 tvg-id="ACTSTV.uk" tvg-name="ACTS TV" tvg-logo="https://i.imgur.com/c1gnTho.jpg" group-title="All Channels",ACTS TV
 https://panel.freedomflixtv.org:3096/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" tvg-logo="https://i.imgur.com/K81vNbk.png",Akaal Channel
+#EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" tvg-logo="https://i.imgur.com/K81vNbk.png" group-title="All Channels",Akaal Channel
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV
+#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="All Channels",Angel TV
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-logo="https://i.imgur.com/ugn0DWe.png",Eman Channel
+#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-logo="https://i.imgur.com/ugn0DWe.png" group-title="All Channels",Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-name="EWTN [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",EWTN [Not 24/7]
+#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-name="EWTN [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="All Channels",EWTN [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FadakTV.uk" tvg-name="Fadak TV  [Not 24/7]" tvg-logo="https://i.imgur.com/MBZ4sSA.png",Fadak TV  [Not 24/7]
+#EXTINF:-1 tvg-id="FadakTV.uk" tvg-name="Fadak TV  [Not 24/7]" tvg-logo="https://i.imgur.com/MBZ4sSA.png" group-title="All Channels",Fadak TV  [Not 24/7]
 https://ythls.armelin.one/channel/UC2ZoBzeCXrZcMz4f82eMe-g.m3u8
-#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel  [Not 24/7]" tvg-logo="https://i.imgur.com/bJdFH7x.png",Islam Channel  [Not 24/7]
+#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel  [Not 24/7]" tvg-logo="https://i.imgur.com/bJdFH7x.png" group-title="All Channels",Islam Channel  [Not 24/7]
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="IslamChannelUrdu.uk" tvg-name="Islam Channel Urdu" tvg-logo="https://i.imgur.com/j1ZBAgg.png",Islam Channel Urdu
+#EXTINF:-1 tvg-id="IslamChannelUrdu.uk" tvg-name="Islam Channel Urdu" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="All Channels",Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="KICCTV.uk" tvg-name="KICCTV" tvg-logo="https://i.imgur.com/4kU1VNx.png",KICCTV
+#EXTINF:-1 tvg-id="KICCTV.uk" tvg-name="KICCTV" tvg-logo="https://i.imgur.com/4kU1VNx.png" group-title="All Channels",KICCTV
 https://webstreaming.viewmedia.tv/web_020/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveWorldUK.uk" tvg-name="Loveworld TV  [Not 24/7]" tvg-logo="https://i.imgur.com/JgHbDmF.png",Loveworld TV  [Not 24/7]
+#EXTINF:-1 tvg-id="LoveWorldUK.uk" tvg-name="Loveworld TV  [Not 24/7]" tvg-logo="https://i.imgur.com/JgHbDmF.png" group-title="All Channels",Loveworld TV  [Not 24/7]
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MiracleTV.uk" tvg-name="Miracle TV" tvg-logo="https://i.imgur.com/pTn8Vc3.png",Miracle TV
+#EXTINF:-1 tvg-id="MiracleTV.uk" tvg-name="Miracle TV" tvg-logo="https://i.imgur.com/pTn8Vc3.png" group-title="All Channels",Miracle TV
 https://webstreaming.viewmedia.tv/web_030/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NoorTV.uk" tvg-name="Noor TV  [Not 24/7]" tvg-logo="https://i.imgur.com/DlKgIuQ.png",Noor TV  [Not 24/7]
+#EXTINF:-1 tvg-id="NoorTV.uk" tvg-name="Noor TV  [Not 24/7]" tvg-logo="https://i.imgur.com/DlKgIuQ.png" group-title="All Channels",Noor TV  [Not 24/7]
 http://45.76.186.114:8080/hls/noortv.m3u8
-#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang" tvg-logo="https://i.imgur.com/3mwf8Uq.png",Kerrang
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang" tvg-logo="https://i.imgur.com/3mwf8Uq.png" group-title="All Channels",Kerrang
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang
-#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="KISS TV" tvg-logo="https://i.imgur.com/cmwa5Wh.png",KISS TV
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="KISS TV" tvg-logo="https://i.imgur.com/cmwa5Wh.png" group-title="All Channels",KISS TV
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-name="Afrobeats" tvg-logo="https://i.imgur.com/232ndRK.png",Afrobeats
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-name="Afrobeats" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="All Channels",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",Box Hits
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="All Channels",Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits
-#EXTINF:-1 tvg-id="KoolLondonRadio.uk" tvg-name="Kool London Radio" tvg-logo="https://i.imgur.com/Jf7gydO.png",Kool London Radio
+#EXTINF:-1 tvg-id="KoolLondonRadio.uk" tvg-name="Kool London Radio" tvg-logo="https://i.imgur.com/Jf7gydO.png" group-title="All Channels",Kool London Radio
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70's" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70's
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70's" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="All Channels",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80's" tvg-logo="https://i.imgur.com/YyPnMeB.png",Now 80's
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80's" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="All Channels",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NOWRock.uk" tvg-name="NOW Rock" tvg-logo="https://i.imgur.com/GuM4GnX.png",NOW Rock
+#EXTINF:-1 tvg-id="NOWRock.uk" tvg-name="NOW Rock" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="All Channels",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-name="Qwest TV Jazz & Beyond" tvg-logo="https://i.imgur.com/89yWH5L.png",Qwest TV Jazz & Beyond
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-name="Qwest TV Jazz & Beyond" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="All Channels",Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 tvg-id="QwestTVMix.fr" tvg-name="Qwest TV Mix" tvg-logo="https://i.imgur.com/lO22nwk.png",Qwest TV Mix
+#EXTINF:-1 tvg-id="QwestTVMix.fr" tvg-name="Qwest TV Mix" tvg-logo="https://i.imgur.com/lO22nwk.png" group-title="All Channels",Qwest TV Mix
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="ITV" tvg-logo="https://storage.googleapis.com/freesat-production-assets/styles/body_image_max/cloud-storage/feeds/channel/ITV1-Online-Logo-135x76.jpg.webp?itok=3te71HLP",ITV
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="ITV" tvg-logo="https://storage.googleapis.com/freesat-production-assets/styles/body_image_max/cloud-storage/feeds/channel/ITV1-Online-Logo-135x76.jpg.webp?itok=3te71HLP" group-title="All Channels",ITV
 https://csm-e-stv-eb.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
-#EXTINF:-1 tvg-id="STVPlus1.uk" tvg-name="ITV+1" tvg-logo="https://storage.googleapis.com/freesat-production-assets/styles/body_image_max/cloud-storage/feeds/channel/ITV1plus1-Online-Logo-135x76.jpg.webp?itok=bvKXymco",ITV+1
+#EXTINF:-1 tvg-id="STVPlus1.uk" tvg-name="ITV+1" tvg-logo="https://storage.googleapis.com/freesat-production-assets/styles/body_image_max/cloud-storage/feeds/channel/ITV1plus1-Online-Logo-135x76.jpg.webp?itok=bvKXymco" group-title="All Channels",ITV+1
 https://csm-e-stv-eb.tls1.yospace.com/csm/live/181023311.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV BBC Home" tvg-logo="https://pbs.twimg.com/media/EsHAoO_VcAEQCMp.jpg:large",Pluto TV BBC Home
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV BBC Home" tvg-logo="https://pbs.twimg.com/media/EsHAoO_VcAEQCMp.jpg:large" group-title="All Channels",Pluto TV BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free UK" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-top-free.jpg",Rakuten Top Free UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free UK" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-top-free.jpg" group-title="All Channels",Rakuten Top Free UK
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="All Channels",S4C
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 tvg-id="BENTelevision.uk" tvg-name="BEN Television" tvg-logo="https://i.imgur.com/DUAjjvT.png",BEN Television
+#EXTINF:-1 tvg-id="BENTelevision.uk" tvg-name="BEN Television" tvg-logo="https://i.imgur.com/DUAjjvT.png" group-title="All Channels",BEN Television
 https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze" tvg-logo="https://i.imgur.com/6UcPWP9.png",Blaze
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze" tvg-logo="https://i.imgur.com/6UcPWP9.png" group-title="All Channels",Blaze
 https://live.blaze.tv/live7/blaze/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-name="Magna Vision" tvg-logo="https://i.imgur.com/mUHixbi.png",Magna Vision
+#EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-name="Magna Vision" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="All Channels",Magna Vision
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVConspiracy.uk" tvg-name="Pluto TV Conspiracy  [Not 24/7]" tvg-logo="https://i.imgur.com/sr0kYSH.png",Pluto TV Conspiracy  [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVConspiracy.uk" tvg-name="Pluto TV Conspiracy  [Not 24/7]" tvg-logo="https://i.imgur.com/sr0kYSH.png" group-title="All Channels",Pluto TV Conspiracy  [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PopMax.uk" tvg-name="POP Max" tvg-logo="https://i.imgur.com/Z7XTTod.png",POP Max
+#EXTINF:-1 tvg-id="PopMax.uk" tvg-name="POP Max" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title="All Channels",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-name="Hala London TV Cartoon" tvg-logo="https://i.imgur.com/bM4VZDH.png",Hala London TV Cartoon
+#EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-name="Hala London TV Cartoon" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="All Channels",Hala London TV Cartoon
 https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="LollyKids.uk" tvg-name="Lolly Kids" tvg-logo="https://i.imgur.com/DOpgaBe.png",Lolly Kids
+#EXTINF:-1 tvg-id="LollyKids.uk" tvg-name="Lolly Kids" tvg-logo="https://i.imgur.com/DOpgaBe.png" group-title="All Channels",Lolly Kids
 http://45.225.95.170:8000/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png",Moonbug Kids
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="All Channels",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/J9iWjWL.png",Teletubbies
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="All Channels",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="Jewelery Maker" tvg-logo="https://i.imgur.com/O7SdkBh.png",Jewelery Maker
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="Jewelery Maker" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="All Channels",Jewelery Maker
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TheCraftStore.uk" tvg-name="Create and Craft" tvg-logo="https://media.thecraftstore.com/hero-images/website/grid/630.jpg",Create and Craft
+#EXTINF:-1 tvg-id="TheCraftStore.uk" tvg-name="Create and Craft" tvg-logo="https://media.thecraftstore.com/hero-images/website/grid/630.jpg" group-title="All Channels",Create and Craft
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
-#EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-name="Cruise1st TV" tvg-logo="https://i.imgur.com/L1bysJS.png",Cruise1st TV
+#EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-name="Cruise1st TV" tvg-logo="https://i.imgur.com/L1bysJS.png" group-title="All Channels",Cruise1st TV
 https://ythls.armelin.one/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
-#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="Gems TV" tvg-logo="https://i.imgur.com/WgaJufI.png",Gems TV
+#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="Gems TV" tvg-logo="https://i.imgur.com/WgaJufI.png" group-title="All Channels",Gems TV
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="Ideal World TV" tvg-logo="https://i.imgur.com/su6GH7i.png",Ideal World TV
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="Ideal World TV" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="All Channels",Ideal World TV
 https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
-#EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC UK" tvg-logo="https://i.imgur.com/6TWUVrh.png",QVC UK
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC UK" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="All Channels",QVC UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="QVCPlus1.uk" tvg-name="QVC UK +1" tvg-logo="https://i.imgur.com/6TWUVrh.png",QVC UK +1
+#EXTINF:-1 tvg-id="QVCPlus1.uk" tvg-name="QVC UK +1" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="All Channels",QVC UK +1
 https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC UK Beauty" tvg-logo="https://i.imgur.com/ZBHtqk1.png",QVC UK Beauty
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC UK Beauty" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="All Channels",QVC UK Beauty
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC UK Extra" tvg-logo="https://i.imgur.com/TIe5T9Z.png",QVC UK Extra
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC UK Extra" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="All Channels",QVC UK Extra
 https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC UK Style" tvg-logo="https://i.imgur.com/6HZlLL3.png",QVC UK Style
+#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC UK Style" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="All Channels",QVC UK Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png",TJC
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="All Channels",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Classic Movies" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40",Pluto TV Classic Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Classic Movies" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40" group-title="All Channels",Pluto TV Classic Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-name="Rakuten Family UK" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-Family-UK.jpeg",Rakuten Family UK
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-name="Rakuten Family UK" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-Family-UK.jpeg" group-title="All Channels",Rakuten Family UK
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="DiscoverFilm" tvg-logo="https://i.imgur.com/oMnpsQ5.png",DiscoverFilm
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="DiscoverFilm" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="All Channels",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png",Filmstream
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="All Channels",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HalaLondonTVMovies.uk" tvg-name="Hala London TV Movies" tvg-logo="https://i.imgur.com/bM4VZDH.png",Hala London TV Movies
+#EXTINF:-1 tvg-id="HalaLondonTVMovies.uk" tvg-name="Hala London TV Movies" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="All Channels",Hala London TV Movies
 https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMovies.uk" tvg-name="Pluto TV Movies" tvg-logo="https://i.imgur.com/i51xfAn.png",Pluto TV Movies
+#EXTINF:-1 tvg-id="PlutoTVMovies.uk" tvg-name="Pluto TV Movies" tvg-logo="https://i.imgur.com/i51xfAn.png" group-title="All Channels",Pluto TV Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVRomance.uk" tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/0jHyTvu.png",Pluto TV Romance
+#EXTINF:-1 tvg-id="PlutoTVRomance.uk" tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/0jHyTvu.png" group-title="All Channels",Pluto TV Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-name="Rakuten Action Movies UK" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/c3ef8d539f121af84408d61e672738d9.jpg",Rakuten Action Movies UK
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-name="Rakuten Action Movies UK" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/c3ef8d539f121af84408d61e672738d9.jpg" group-title="All Channels",Rakuten Action Movies UK
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.uk" tvg-name="Rakuten Comedy Movies UK" tvg-logo="https://tv.mobistream.co.za/uploads/cache/channel_thumb/uploads/jpg/9c5e39af8ef1e46d32914258cb2614d0.jpg",Rakuten Comedy Movies UK
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.uk" tvg-name="Rakuten Comedy Movies UK" tvg-logo="https://tv.mobistream.co.za/uploads/cache/channel_thumb/uploads/jpg/9c5e39af8ef1e46d32914258cb2614d0.jpg" group-title="All Channels",Rakuten Comedy Movies UK
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlight.uk" tvg-name="Rakuten Spotlight UK" tvg-logo="https://babaktv.com/wp-content/uploads/2023/07/Rakuten-UK-Spotlight.jpg?x60136",Rakuten Spotlight UK
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.uk" tvg-name="Rakuten Spotlight UK" tvg-logo="https://babaktv.com/wp-content/uploads/2023/07/Rakuten-UK-Spotlight.jpg?x60136" group-title="All Channels",Rakuten Spotlight UK
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="EDGEsport" tvg-logo="https://i.imgur.com/bgQ6kz7.png",EDGEsport
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="EDGEsport" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="All Channels",EDGEsport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.nl" tvg-name="Extreme Sports" tvg-logo="https://i.imgur.com/m7IC01U.png",Extreme Sports
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.nl" tvg-name="Extreme Sports" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="All Channels",Extreme Sports
 https://edge02.odtv.az/o4/extremesport/playlist.m3u8
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",MUTV
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="All Channels",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-name="Pluto TV Sports" tvg-logo="https://i.imgur.com/LW77x7g.png",Pluto TV Sports
+#EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-name="Pluto TV Sports" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="All Channels",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse and Country Free" tvg-logo="https://i.imgur.com/1x6zYZr.png",Horse and Country Free
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse and Country Free" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="All Channels",Horse and Country Free
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Antiques Roadshow UK" tvg-logo="https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40",Pluto TV Antiques Roadshow UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Antiques Roadshow UK" tvg-logo="https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40" group-title="All Channels",Pluto TV Antiques Roadshow UK
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce44810b421747ae467b7cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=621&terminate=false&userId=
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",Fashion TV
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="All Channels",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Hunter.uk" tvg-name="Filmrise Hunter" tvg-logo="https://i.imgur.com/ztksnJB.png",Filmrise Hunter
+#EXTINF:-1 tvg-id="Hunter.uk" tvg-name="Filmrise Hunter" tvg-logo="https://i.imgur.com/ztksnJB.png" group-title="All Channels",Filmrise Hunter
 https://lnc-hunter-filmrise.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetroDrama.uk" tvg-name="Pluto TV Retro Drama" tvg-logo="https://i.imgur.com/a2xIDMJ.png",Pluto TV Retro Drama
+#EXTINF:-1 tvg-id="PlutoTVRetroDrama.uk" tvg-name="Pluto TV Retro Drama" tvg-logo="https://i.imgur.com/a2xIDMJ.png" group-title="All Channels",Pluto TV Retro Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dde47b63585b500099f74ec&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5204e9ec-0585-11eb-a18c-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSherlock.uk" tvg-name="Pluto TV Sherlock" tvg-logo="https://i.imgur.com/SL3FNcm.png",Pluto TV Sherlock
+#EXTINF:-1 tvg-id="PlutoTVSherlock.uk" tvg-name="Pluto TV Sherlock" tvg-logo="https://i.imgur.com/SL3FNcm.png" group-title="All Channels",Pluto TV Sherlock
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVAnimals.uk" tvg-name="Pluto TV Animals" tvg-logo="https://i.imgur.com/KuPue6S.png",Pluto TV Animals
+#EXTINF:-1 tvg-id="PlutoTVAnimals.uk" tvg-name="Pluto TV Animals" tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="All Channels",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVCrime.uk" tvg-name="Pluto TV Crime   [Not 24/7]" tvg-logo="https://i.imgur.com/QwEpDY9.png",Pluto TV Crime   [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVCrime.uk" tvg-name="Pluto TV Crime   [Not 24/7]" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="All Channels",Pluto TV Crime   [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVParanormal.uk" tvg-name="Pluto TV Paranormal" tvg-logo="https://i.imgur.com/udxOeQJ.png",Pluto TV Paranormal
+#EXTINF:-1 tvg-id="PlutoTVParanormal.uk" tvg-name="Pluto TV Paranormal" tvg-logo="https://i.imgur.com/udxOeQJ.png" group-title="All Channels",Pluto TV Paranormal
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=
-#EXTINF:-1 tvg-id="RealStories.uk" tvg-name="Real Stories" tvg-logo="https://i.imgur.com/PG15QKA.png",Real Stories
+#EXTINF:-1 tvg-id="RealStories.uk" tvg-name="Real Stories" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="All Channels",Real Stories
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVClassicTV.uk" tvg-name="Pluto TV Classic TV" tvg-logo="https://i.imgur.com/hGdXRMd.png",Pluto TV Classic TV
+#EXTINF:-1 tvg-id="PlutoTVClassicTV.uk" tvg-name="Pluto TV Classic TV" tvg-logo="https://i.imgur.com/hGdXRMd.png" group-title="All Channels",Pluto TV Classic TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc
-#EXTINF:-1 tvg-id="PlutoTVStandUp.uk" tvg-name="Pluto TV Stand Up" tvg-logo="https://i.imgur.com/cZdUQDe.png",Pluto TV Stand Up
+#EXTINF:-1 tvg-id="PlutoTVStandUp.uk" tvg-name="Pluto TV Stand Up" tvg-logo="https://i.imgur.com/cZdUQDe.png" group-title="All Channels",Pluto TV Stand Up
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png",Top Gear
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="All Channels",Top Gear
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVMotor.uk" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png",Pluto TV Motor
+#EXTINF:-1 tvg-id="PlutoTVMotor.uk" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png" group-title="All Channels",Pluto TV Motor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0510962948d000961d3c6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=576&terminate=false&userId=
