@@ -56,7 +56,7 @@ http://45.153.35.210:8000/play/UK_bbc_4_HD/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="All Channels",BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-name="BBC One" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="All Channels",BBC One
-https://github.com/psfreestore/psfreestore.github.io/deferred-metadata/main/bbconeslave.m3u8
+https://raw.githubusercontent.com/psfreestore/psfreestore.github.io/main/gb.m3u8
 #EXTINF:-1 tvg-id="BBCOneWalesHD.uk" tvg-name="BBC One Wales" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="All Channels",BBC One Wales
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcparliament-epg.png" group-title="All Channels",BBC Parliament
