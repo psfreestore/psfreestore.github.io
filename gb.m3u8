@@ -11,6 +11,8 @@ https://r.mjh.nz/PlutoTV/6299e5afdd5833000727e795-alt.m3u8
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/1371.ts
 #EXTINF:-1 tvg-id="5USA.uk" tvg-name="5 USA" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/5usa-epg.png" group-title="All Channels",5 USA
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/1346.ts
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/512px-5Action_logo.svg.png" group-title="All Channels",5ACTION
+http://94.229.68.210:8062/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="5Select.uk" tvg-name="5Select" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/5Select_logo.svg/1024px-5Select_logo.svg.png" group-title="All Channels",5Select
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/3000.ts
 #EXTINF:-1 tvg-id="5Star.uk" tvg-name="5STAR" tvg-logo="https://i.imgur.com/PI11s9s.png" group-title="All Channels",5STAR
@@ -327,16 +329,22 @@ https://r.mjh.nz/PlutoTV/5d765786aad587cf4d0e2bf6-alt.m3u8
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="IslamChannelUrdu.uk" tvg-name="Islam Channel Urdu" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="All Channels",Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" group-title="All Channels",ITV1
+http://94.229.68.210:8062/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="ITV1Plus1.uk" tvg-name="ITV1 +1" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1+1-epg.png" group-title="All Channels",ITV1 +1
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2991.ts
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png" group-title="All Channels",ITV2
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2992.ts
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png" group-title="All Channels",ITV3
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2993.ts
+#EXTINF:-1 tvg-id="ITV3Plus1.uk" tvg-name="ITV3 +1" tvg-logo="https://i.imgur.com/Y5L0mqY.png" group-title="All Channels",ITV3 +1
+http://45.153.35.210:8000/play/UK_itv_3_1_sd/index.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="All Channels",ITV4
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2994.ts
 #EXTINF:-1 tvg-id="ITV4Plus1.uk" tvg-name="ITV4 +1" tvg-logo="https://i.imgur.com/LNtsaQE.png" group-title="All Channels",ITV4 +1
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2995.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itvbe-epg.png" group-title="All Channels",ITVBe
+http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/1330.ts
 #EXTINF:-1 tvg-id="GBBD50000084W" tvg-name="Jack Hanna" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000084W_20240131T031222SQUARE.png_20240131031223.png" group-title="All Channels",Jack Hanna
 https://i.mjh.nz/SamsungTVPlus/GBBD50000084W.m3u8
 #EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="Jewelery Maker" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="All Channels",Jewelery Maker
@@ -1019,6 +1027,8 @@ https://r.mjh.nz/PlutoTV/646f2af681844c00097d85a9-alt.m3u8
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/1371.ts
 #EXTINF:-1 tvg-id="5USA.uk" tvg-name="5 USA" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/5usa-epg.png" group-title="Entertainment",5 USA
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/1346.ts
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/512px-5Action_logo.svg.png" group-title="Entertainment",5ACTION
+http://94.229.68.210:8062/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="5Select.uk" tvg-name="5Select" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/5Select_logo.svg/1024px-5Select_logo.svg.png" group-title="Entertainment",5Select
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/3000.ts
 #EXTINF:-1 tvg-id="5Star.uk" tvg-name="5STAR" tvg-logo="https://i.imgur.com/PI11s9s.png" group-title="Entertainment",5STAR
@@ -1135,12 +1145,16 @@ https://i.mjh.nz/SamsungTVPlus/GBBD3000004VR.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
 #EXTINF:-1 tvg-id="GBBC900002MO" tvg-name="Horizons" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900002MO_20231101T032851SQUARE.png_20231101032852.png" group-title="General",Horizons
 https://i.mjh.nz/SamsungTVPlus/GBBC900002MO.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" group-title="General",ITV1
+http://94.229.68.210:8062/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="ITV1Plus1.uk" tvg-name="ITV1 +1" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1+1-epg.png" group-title="General",ITV1 +1
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2991.ts
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png" group-title="General",ITV2
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2992.ts
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png" group-title="General",ITV3
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2993.ts
+#EXTINF:-1 tvg-id="ITV3Plus1.uk" tvg-name="ITV3 +1" tvg-logo="https://i.imgur.com/Y5L0mqY.png" group-title="General",ITV3 +1
+http://45.153.35.210:8000/play/UK_itv_3_1_sd/index.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="General",ITV4
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/2994.ts
 #EXTINF:-1 tvg-id="ITV4Plus1.uk" tvg-name="ITV4 +1" tvg-logo="https://i.imgur.com/LNtsaQE.png" group-title="General",ITV4 +1
