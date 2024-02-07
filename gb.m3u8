@@ -87,8 +87,6 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wales_fm.m3u8
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="All Channels",BBC Three
 http://45.153.35.210:8000/play/UK_bbc_3_HD/index.m3u8
-#EXTINF:-1 tvg-id="BBCTwoEngland.uk" tvg-name="BBC Two" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="All Channels",BBC Two
-http://94.229.68.210:8062/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="BBC Two Wales" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2wa-epg.png" group-title="All Channels",BBC Two Wales
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="GBBA330002536" tvg-name="Beano TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330002536_20220914T041001SQUARE.png_20220914041001.png" group-title="All Channels",Beano TV
@@ -1109,12 +1107,8 @@ https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8
 #EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" tvg-logo="https://i.imgur.com/K81vNbk.png" group-title="General",Akaal Channel
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-name="BBC One" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
-http://94.229.68.210:8062/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="BBCOneWalesHD.uk" tvg-name="BBC One Wales" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Wales
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="BBCTwoEngland.uk" tvg-name="BBC Two" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
-http://94.229.68.210:8062/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="BBC Two Wales" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2wa-epg.png" group-title="General",BBC Two Wales
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="GBBA330002536" tvg-name="Beano TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330002536_20220914T041001SQUARE.png_20220914041001.png" group-title="General",Beano TV
